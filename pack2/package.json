@@ -1,0 +1,10 @@
+{
+  "name": "pack2",
+  "version": "1.0.0",
+  "description": "Pack 2",
+  "author": "Jim",
+  "license": "ISC",
+  "dependencies": {
+    "pack1": "file:../pack1"
+  }
+}
